@@ -4,5 +4,9 @@ In this capstone, we will *predict if the Falcon 9 first stage will land success
 Following are some exmples:
   **Successful landing**
   ![Farmers Market Finder Demo](images/landing_1.gif)
+  
+  
+  
+  
   **Unsuccesful landings**
   ![Farmers Market Finder Demo](images/crash.gif)
